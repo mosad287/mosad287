@@ -6,7 +6,7 @@
 
 
 
-<p align="center" width="50%">Junior Front-End Developer specialized in building modern web applications using   *React*   and   *Angular*  .<br>  
+<p align="center" width="50%">Junior Front-End Developer specialized in building modern web sites using   *React*   and   *Angular*  .<br>  
 Interested in writing clean code, performance, and user experience.</p>
 
 <h2>Tools :</h2>
